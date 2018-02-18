@@ -59,7 +59,7 @@ This is the default setup for pushing to our personal GitHub account. Notice tha
 Add remote urls
 ------------------------------------
 
-    git remote add origin git@github.com:bokamvinaykumar/configs-commands-installations.git
+    git remote add origin git@github.com:vinaybokam/configs-commands-installations.git
     git remote add origin git@github-COMPANY:bokamvinaykumar/configs-commands-installations.git
 
 
