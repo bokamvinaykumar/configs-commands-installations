@@ -10,7 +10,7 @@ Create a New SSH Key
 
 create a ssh key for each account
 
-	$ ssh-keygen -t rsa -C "EMAIL_ID_HERE"
+	``$ ssh-keygen -t rsa -C "EMAIL_ID_HERE"
 
 
 Attach the New Key
@@ -88,3 +88,5 @@ You can change the email address associated with commits you make in a single re
     $ git config user.email "GIT_EMAIL_HERE"
 
 
+
+&copy;_VINAY KUMAR BOKAM_
