@@ -3,6 +3,22 @@
 
 
 #Commands
+
+
+## multiple terminals in different tabs
+
+```$xslt
+- ⌘T  New Tab 
+
+- ⌘←  Previous Tab
+
+- ⌘→  Next Tab 
+
+
+```
+
+## multiple terminals in same tab
+
 ```
 
 – Cmd-D                       Split vertically
@@ -15,6 +31,16 @@
 ```
 
 
+### General commands
+
+```$xslt
+- ⌘w Close tab 
+- ⌘+ Text Bigger 
+- ⌘0 Text Normal Size 
+- ⌘- Make Text Smaller 
+- ⌃L Clear Window 
+- ⌘K Clear Buffer 
+```
 
 
 
